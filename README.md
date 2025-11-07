@@ -36,6 +36,7 @@ In your last report, did you **analyze the numbers** —
 or did you **listen to them**?  
 
 ---
+<img width="1536" height="1024" alt="Human Signal" src="https://github.com/user-attachments/assets/e14a68f4-c6cc-450e-921e-b0679e091d26" />
 
 👤 *Written & visualized by KalyanDataGuy*  
 *(Part of the 365 DataLoop Series — Data + Human Signal + Storytelling)*  
