@@ -1,5 +1,4 @@
-# 📡 The Human Signal in Data Noise
-Part 3 of 365 Day DataLoop Series
+# 📡 The Human Signal - Part III of 365 DataLoop Series
 
 > Every dataset hides something deeply human — intent, effort, or fatigue.  
 > But sometimes, the noise is the only signal that matters.
